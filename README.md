@@ -60,3 +60,18 @@ Build your portfolio:
 ---
 
 Each phase contains detailed learning materials, curated resources, and hands-on challenges to solidify your understanding. Work through them sequentially for the best learning experience.
+
+## Quick Setup
+
+**Prerequisites:** [Conda](https://docs.conda.io/en/latest/miniconda.html) installed
+
+```bash
+# Create environment and install dependencies
+conda create -n aiml python=3.11 jupyter numpy pandas matplotlib scikit-learn pytorch torchvision -c pytorch -c conda-forge -y
+conda activate aiml
+
+# Start Jupyter Lab if not doing in vscode with Jupyter plugins
+jupyter lab
+```
+
+Navigate to any `.ipynb` file to begin learning!
