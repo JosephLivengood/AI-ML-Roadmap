@@ -67,7 +67,7 @@ Each phase contains detailed learning materials, curated resources, and hands-on
 
 ```bash
 # Create environment and install dependencies
-conda create -n aiml python=3.11 jupyter numpy pandas matplotlib scikit-learn pytorch torchvision -c pytorch -c conda-forge -y
+conda create -n aiml python=3.11 jupyter numpy pandas matplotlib seaborn scikit-learn pytorch torchvision -c pytorch -c conda-forge -y
 conda activate aiml
 
 # Start Jupyter Lab if not doing in vscode with Jupyter plugins

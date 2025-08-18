@@ -5,12 +5,12 @@ _Goal: Solidify the mathematical and programming fundamentals upon which all of 
 ## Phase 1 Curriculum Outline
 
 - **Unit 1: Linear Algebra Foundations**
-  - [ ] Vectors
-  - [ ] Matrices
-  - [ ] Linear Transformations
-  - [ ] Eigenvectors & Eigenvalues
-  - [ ] NumPy Implementation
-  - [ ] **Challenge:** Implement PCA from scratch.
+  - [x] Vectors
+  - [x] Matrices
+  - [x] Linear Transformations
+  - [x] Eigenvectors & Eigenvalues
+  - [x] NumPy Implementation
+  - [x] **Challenge:** Implement PCA from scratch.
 - **Unit 2: Statistics and Probability**
   - [ ] Descriptive Statistics
   - [ ] Probability Distributions
