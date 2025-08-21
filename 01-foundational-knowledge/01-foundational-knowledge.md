@@ -12,17 +12,17 @@ _Goal: Solidify the mathematical and programming fundamentals upon which all of 
   - [x] NumPy Implementation
   - [x] **Challenge:** Implement PCA from scratch.
 - **Unit 2: Statistics and Probability**
-  - [ ] Descriptive Statistics
-  - [ ] Probability Distributions
-  - [ ] Core Concepts
-  - [ ] Hypothesis Testing
-  - [ ] **Challenge:** Perform and document a statistical analysis.
+  - [x] Descriptive Statistics
+  - [x] Probability Distributions
+  - [x] Core Concepts
+  - [x] Hypothesis Testing
+  - [x] **Challenge:** Perform and document a statistical analysis.
 - **Unit 3: Calculus for Machine Learning**
-  - [ ] Derivatives
-  - [ ] The Chain Rule
-  - [ ] Partial Derivatives & Gradients
-  - [ ] Optimization
-  - [ ] **Challenge:** Implement gradient descent variants.
+  - [x] Derivatives
+  - [x] The Chain Rule
+  - [x] Partial Derivatives & Gradients
+  - [x] Optimization
+  - [x] **Challenge:** Implement gradient descent variants.
 
 ---
 
